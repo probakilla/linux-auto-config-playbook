@@ -1,0 +1,6 @@
+---
+
+- name: Linux auto configuration
+  hosts: localhost
+  roles:
+    - probakilla.linux_auto_config
